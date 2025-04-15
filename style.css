@@ -24,7 +24,7 @@ nav{
     font-size: 35px;
     font-family: 'Courier New';
     background-color: beige;
-    padding-bottom:  20p;
+    padding-bottom:  20px;
     float: left;
 }
 
@@ -136,6 +136,6 @@ main button a:hover{
     display: flex;
     }
     .ion-icon:hover{
-        color: aqua;
+        color: blue;
     }
 }
