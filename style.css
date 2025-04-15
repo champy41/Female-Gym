@@ -135,7 +135,7 @@ main button a:hover{
     float: left;
     display: flex;
     }
-    .icons ion-icon:hover{
+    .icons a:hover{
         color: white;
     }
 }
