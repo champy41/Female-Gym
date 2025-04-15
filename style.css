@@ -136,6 +136,6 @@ main button a:hover{
     display: flex;
     }
     .icons ion-icon:hover{
-        color: blue;
+        color: white;
     }
 }
