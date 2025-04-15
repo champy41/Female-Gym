@@ -136,6 +136,6 @@ main button a:hover{
     display: flex;
     }
     .ion-icon:hover{
-        color: purple;
+        color: aqua;
     }
 }
