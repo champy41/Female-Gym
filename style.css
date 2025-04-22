@@ -138,4 +138,9 @@ main button a:hover{
     .main icons ion-icon a:hover{
         color: white;
     }
+    .active, .menu ul li:hover{
+        background:blue;
+        borber-radius: 3px;
+    .menu .fa{
+        margin-right:8px
 }
